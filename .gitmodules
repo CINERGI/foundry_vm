@@ -1,0 +1,12 @@
+[submodule "modules/mongodb"]
+	path = modules/mongodb
+	url = git://github.com/portertech/puppet-mongodb.git
+[submodule "modules/puppetlabs-vcsrepo"]
+	path = modules/puppetlabs-vcsrepo
+	url = git://github.com/puppetlabs/puppetlabs-vcsrepo
+[submodule "modules/puppet-activemq"]
+	path = modules/puppet-activemq
+	url = git://github.com/example42/puppet-activemq
+[submodule "modules/puppetlabs-apt"]
+	path = modules/puppetlabs-apt
+	url = git://github.com/puppetlabs/puppetlabs-apt
